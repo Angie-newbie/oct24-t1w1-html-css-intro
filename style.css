@@ -1,0 +1,32 @@
+p{
+    color:blue;
+}
+
+h1{
+    background-color: aquamarine;
+    color:black;
+}
+
+.coolStyle {
+    background-color: beige;
+}
+.big {
+    font-size: 1.6rem;
+}
+
+#featureHeading{
+    text-decoration: underline;
+}
+
+li:nth-child(even){
+    background-color: blueviolet;
+}
+
+div img{
+    width: 50%;
+}
+
+div{
+    width:70%;
+    border:2px solid bisque;
+}
